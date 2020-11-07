@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: November 7, 2020
-##### (delete me or comment me out)
 
 **Thoughts:** Learning Singleton Design Pattern & How to apply it. 
 
