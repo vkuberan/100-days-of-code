@@ -4,9 +4,16 @@
 
 **Thoughts:** Learning Singleton Design Pattern & How to apply it. 
 
-**Today's Progress:** Create a Singleton Class in Python and PHP.
+**Today's Progress:** Created a Singleton Class in Python and PHP.
 
 **Link to work:** 
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-3. [Calculator App](http://www.example.com)
+1. [Python](https://github.com/vkuberan/100-days-of-code-source/tree/main/day-0/python)
+2. [PHP](https://github.com/vkuberan/100-days-of-code-source/blob/main/day-0/php/Singleton.php)
+
+### Day 1: November 8, 2020
+
+**Problem:** Convert the given number to binary if it is even or hexadecimal if it is not.
+
+**Link to Solution:** 
+1. [Python](https://github.com/vkuberan/100-days-of-code-source/blob/main/day-1/python/even-odd.py)
+2. [PHP](https://github.com/vkuberan/100-days-of-code-source/blob/main/day-1/php/even-odd.php)
